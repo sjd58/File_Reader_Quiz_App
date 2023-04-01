@@ -1,0 +1,4 @@
+Give me an example of polymorphism in object oriented programming.
+You type in a "google.com" into your browser and you are taken to Google's home page. What happened to make this possible?
+What's the difference between and interface and an abstract class?
+What's the difference between overriding and overloading a method?

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQCiab9K3oCWh227q0U5ghv4MUmit/VLANyoLIZt2vXTgro6xQr+L+X0HTHMRqib+VTlY4RrGRC74FlGt5K2mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\samuel-dickson-student-code\\side-projects\\File_Reader_Quiz_App\\File_Reader_Quiz_App\\File_Reader_Quiz_App\\File_Reader_Quiz_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

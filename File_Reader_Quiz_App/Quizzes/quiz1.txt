@@ -1,0 +1,4 @@
+Which of the following is NOT one of the principles of Object Oriented Programming? | Encapsulation | Polymorphism | Inheritance | Parsing | 4
+True or false: Javascript is a strongly typed language. | True | False | 2
+Which of the following is NOT an example of a reference type? | array | char | string | list | 2
+A map in Java is the same as which of the following in C#? | list | dictionary | hashset | stack | 2
